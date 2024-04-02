@@ -6,4 +6,5 @@ Two teams of robots (police and baddies) are tasked with different objectives in
 ## Deliverables
 * Code
 * Project Report
-* Recording of project execution
+* Project Recording
+* Presentation Slides
